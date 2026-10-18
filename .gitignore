@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+results/*.graded.jsonl
+results/search_cache.json
+results/*.done
+models/
+*.gguf
+.DS_Store

@@ -1,0 +1,6 @@
+# Core harness (run_eval.py / grade.py use only the standard library)
+matplotlib==3.11.2      # report.py, compare.py charts
+# Web-search modes only (run_eval.py --search always|auto|v2)
+ddgs==9.16.0
+requests==2.34.2
+trafilatura==2.3.1
